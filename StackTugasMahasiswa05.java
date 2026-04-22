@@ -41,7 +41,7 @@ public class StackTugasMahasiswa05 {
         if (!isEmpty()) {
             return stack[top];
         } else {
-            System.out.println("Stack kosong! Tidak ada tugas yang dikumpulkan");
+            System.out.println("Stack kosong! Tidak ada tugas yang dikumpulkan ");
             return null;
         }
     }
